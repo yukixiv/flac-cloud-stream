@@ -1,0 +1,6 @@
+[gcs]
+type = google cloud storage
+bucket_policy_only = true
+# Leave credentials empty to use the VM's attached service account (recommended).
+# If you must use a key file:
+# service_account_file = /path/to/key.json

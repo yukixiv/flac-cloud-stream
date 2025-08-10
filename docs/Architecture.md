@@ -61,7 +61,7 @@ flowchart LR
    - VLC, CloudBeats, Evermusic, etc.
    - Connect via LAN or Tailscale IP/hostname.
 
-⸻
+---
 
 ## Event Flow
 
@@ -71,7 +71,7 @@ flowchart LR
 4. Sync: rclone mirrors the relevant path(s) from GCS → VM/NAS.
 5. Play: Clients stream from the VM/NAS (LAN or via Tailscale).
 
-⸻
+---
 
 ## Directory Conventions
 

@@ -1,0 +1,9 @@
+project_id        = "flac-sync-stream-dev"
+region            = "asia-northeast2"
+bucket_name       = "your-flac-bucket-<uniq>"
+gcs_prefix        = "flac-master/"
+pubsub_topic      = "object-events"
+subscription_name = "object-events-sub"
+
+# For dev cleanup convenience. Keep false for production.
+force_destroy     = false
