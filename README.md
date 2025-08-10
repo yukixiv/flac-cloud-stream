@@ -109,7 +109,7 @@ Contributions are welcome!
 
 ## Additional Documentation
 
-- [Architecture Details](docs/ARCHITECTURE.md)
+- [Architecture Details](docs/Architecture.md)
 - [Environment Variables Example](.env.example)
 - [Security Guide](SECURITY.md)
 - [Contributing Guidelines](CONTRIBUTING.md)
